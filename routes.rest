@@ -1,0 +1,10 @@
+POST http://localhost:8001/api/bank/internal-transfer
+Content-Type: application/json
+
+
+
+{
+    "name": "hello",
+    "subscriberToChannel": "trial"
+
+}
